@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\другий курс\ООП\OOPLab2\OOP2\bin\Debug\net8.0\OOP2.exe
+C:\Users\user\OneDrive\Desktop\другий курс\ООП\OOPLab2\OOP2\bin\Debug\net8.0\OOP2.deps.json
+C:\Users\user\OneDrive\Desktop\другий курс\ООП\OOPLab2\OOP2\bin\Debug\net8.0\OOP2.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\другий курс\ООП\OOPLab2\OOP2\bin\Debug\net8.0\OOP2.dll
+C:\Users\user\OneDrive\Desktop\другий курс\ООП\OOPLab2\OOP2\bin\Debug\net8.0\OOP2.pdb
+C:\Users\user\OneDrive\Desktop\другий курс\ООП\OOPLab2\OOP2\obj\Debug\net8.0\OOP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\другий курс\ООП\OOPLab2\OOP2\obj\Debug\net8.0\OOP2.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\другий курс\ООП\OOPLab2\OOP2\obj\Debug\net8.0\OOP2.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\другий курс\ООП\OOPLab2\OOP2\obj\Debug\net8.0\OOP2.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\другий курс\ООП\OOPLab2\OOP2\obj\Debug\net8.0\OOP2.dll
+C:\Users\user\OneDrive\Desktop\другий курс\ООП\OOPLab2\OOP2\obj\Debug\net8.0\refint\OOP2.dll
+C:\Users\user\OneDrive\Desktop\другий курс\ООП\OOPLab2\OOP2\obj\Debug\net8.0\OOP2.pdb
+C:\Users\user\OneDrive\Desktop\другий курс\ООП\OOPLab2\OOP2\obj\Debug\net8.0\OOP2.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\другий курс\ООП\OOPLab2\OOP2\obj\Debug\net8.0\ref\OOP2.dll
